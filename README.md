@@ -95,8 +95,4 @@ The silhouette score of **0.6** was achieved, indicating well-formed clusters wi
 
 If you wish to contribute to this project, feel free to create a pull request or raise an issue.
 
-## License
-
-This project is licensed under the MIT License.  
-
 # Made with :heart:
