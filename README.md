@@ -28,6 +28,8 @@ The performance of the Socially Fair k-Means Clustering algorithm is evaluated t
 - **Clustering Cost**: Visualized by plotting the clustering cost against the number of clusters.
 - **Fairness Evaluation**: Near-equitable cost distribution is achieved across sensitive attributes like gender, education, and facial features.
 - **Silhouette Score**: The final model achieved a silhouette score of 0.6, reflecting good clustering separation while maintaining fairness.
+  **Fair K-means Clustering on Adult Dataset**
+- https://colab.research.google.com/drive/1AlBp19kaSPfAk7PIomZVvNKWmVFLD5aG?usp=sharing
 
 ## Installation
 
